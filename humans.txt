@@ -1,7 +1,7 @@
 Author: Filip Oščádal
-Contact: <filip@mxd.cz>
+Contact: <git@mxd.cz>
 Location: Prague, Czech Republic, Europe, Earth, Universe
-Twitter: @buddhacz
+Twitter: @Buddhacz
 Google+: http://mxd.cz/plus
 Facebook: http://facebook.com/mxdpeep
 IDE: Rapid PHP 2011 11.22
