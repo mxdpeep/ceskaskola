@@ -1,0 +1,27 @@
+body{font-family:arial,sans serif;background:#eee;cursor:auto;margin:0}
+a{color:#f00}
+button,.button{cursor:pointer}
+.indent{margin:5px 10px 0px 10px;padding:5px}
+.header{background:#14568a;margin:0px;padding:5px;color:#fff}
+.divider{background:#448abd;height:5px}
+.subheader{background:#83b4d8;padding-top:5px;padding-left:10px;padding-bottom:0px}
+.sublink{cursor:pointer;font-weight:bold;font-size:14px;padding-right:5px;padding-left:5px;padding-bottom:10px}
+.sublink a{text-decoration:none;color:#000}
+.centered{margin:auto;background:#fff;border:1px solid grey;padding:5px}
+.odd{background:#f4f4f4;padding:5px}
+.even{background:#fff;padding:5px}
+.top{background:#dfdfdf;font-weight:bold;padding:5px}
+.size{width:180px !important}
+.visited{background:#CF6}
+.published{background:#FF5050 !important;font-weight:bold}
+.b1,.b2{background:#98FB98}
+.b3,.b4{background:#FFC0CB}
+.b5{background:#DEB887}
+.b6{background:#FF7F50}
+.b7{background:#FF0}
+.magic,#publishButton,#publishButton2{background:#F00;font-weight:bold;cursor:pointer}
+#publishButton2{float:right;margin-right:16em}
+#preview hr{border-color:#000}
+#qsinput{cursor:help}
+#btRand{cursor:crosshair}
+#preview{padding:1em;border:2px dashed #444}
